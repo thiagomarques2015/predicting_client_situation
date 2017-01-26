@@ -1,5 +1,5 @@
 # Predicting Client Situation
-Artificial Intelligence Beginner: Introduction to Machine Learning! Machine Learning system to predict client situation if he is "happy", "sad", "upset". In this project, you can predict if a client bought inside a website
+Artificial Intelligence Beginner: Introduction to Machine Learning! Machine Learning system to predict client situation if he is "happy", "sad", "upset"
 
 ### Install
 
